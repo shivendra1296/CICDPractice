@@ -1,4 +1,4 @@
-i
+This is test Command
 
 # Jenkins Pipeline Sample Jenkins Script
 
